@@ -1,0 +1,18 @@
+div.AlgorithmTable {
+    position: absolute;
+}
+
+#btnBack {
+   margin: 10px 10px 20px 20px;
+}
+
+#sliderForRange,  #sliderForSpeed {
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 300px;
+}
+
+label {
+    margin-left: 20px;
+}
